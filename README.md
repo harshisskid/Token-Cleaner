@@ -28,3 +28,6 @@ An Token Cleaner Which Removes pfp,bio,pronoun,status,leaves all servers,unfrien
 - Install The Dependencies
 - Run main.py (python main.py)
 
+# Preview 
+
+![image](https://github.com/user-attachments/assets/56937b12-2dde-4f80-9dec-0945e4469516)
