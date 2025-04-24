@@ -1,0 +1,15 @@
+{
+  "max_threads": 3,
+  "proxyless": true,
+  "avoid_rate_limit": true,
+  "sleep_seconds": 10.0,
+  "turbo_mode": false,
+  "clear_dms": false,
+  "delete_owned_servers": false,
+  "leave_servers": false,
+  "unfriend_all": true,
+  "remove_bio": true,
+  "remove_pronouns": true,
+  "remove_status": true,
+  "remove_pfp": true
+}
