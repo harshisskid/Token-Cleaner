@@ -30,5 +30,7 @@ An Token Cleaner Which Removes pfp,bio,pronoun,status,leaves all servers,unfrien
 
 # Preview 
 
-![image](https://github.com/user-attachments/assets/db678cc3-98fe-4ac8-8edd-d4572f3defa6)
+![image](https://github.com/user-attachments/assets/e4870db3-24aa-4368-981e-d6b27530b893)
+
+
 
